@@ -12,3 +12,6 @@ gitcreds::gitcreds_set()
 usethis::git_vaccinate()
 
 usethis::git_default_branch_configure(name = "main")
+
+
+usethis::use_github()
